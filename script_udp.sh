@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 #
-# Try `install_agnudp.sh --help` for usage.
-#
-# (c) 2023 Khaled AGN
+# (c) 2023 AZZPHUC
 #
 
 set -e
