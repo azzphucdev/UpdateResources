@@ -1,0 +1,19 @@
+[
+  {
+   "URL": "https://4g.tintuc247.top/",
+   "Type": "xflash",
+   "NhomTelegram":"https://t.me/tungconychat",
+   "NhomZalo":"https://zalo.me/g/uhqhfj689",
+   "Info":"HTPN.ME",
+   "API1":"api/v1/passport/sso/dangnhap",
+   "API2":"api/v1/user/laydulieugoidangky"
+  },{
+   "URL": "https://azzphuc.pro/",
+   "Type": "v2board",
+   "NhomTelegram":"https://t.me/azzphucpro2",
+   "NhomZalo":"https://zalo.me/g/kdnkdw274",
+   "Info":"AZZPHUC.PRO",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  }
+ ]
