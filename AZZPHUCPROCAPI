@@ -21,7 +21,7 @@
    "NhomTelegram":"https://t.me/tungconychat",
    "NhomZalo":"https://zalo.me/g/uhqhfj689",
    "Info":"zingfast Private Networks",
-   "API1":"api/v1/passport/sso/dangnhap",
-   "API2":"api/v1/user/laydulieugoidangky"
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
   }
  ]
