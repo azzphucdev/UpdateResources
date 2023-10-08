@@ -33,7 +33,7 @@
    "API2":"api/v1/user/getSubscribe"
   },  {
    "URL": "https://zenpn.com/",
-   "Type": "v2board",
+   "Type": "nflash",
    "NhomTelegram":"https://t.me/tungconychat",
    "NhomZalo":"https://zalo.me/g/uhqhfj689",
    "Info":"HTPN.ME",
