@@ -13,5 +13,5 @@
   "ads_reward_inter":"ca-app-pub-5074750635149619/8189708213",
   "ads_reward":"ca-app-pub-5074750635149619/8330939325",
   "ads_openapp":"ca-app-pub-5074750635149619/6661004124",
-  "enable_ads": false
+  "enable_ads": true
 }]
