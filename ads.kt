@@ -5,6 +5,7 @@
   "ads_reward_inter":"ca-app-pub-5256385705854068/95581213949",
   "ads_reward":"ca-app-pub-5256385705854068/9872201766",
   "ads_openapp":"ca-app-pub-5256385705854068/6072557550",
+  "isBaoTri":"",
   "enable_ads": true
 },{
   "package":"com.azzphucmasterdev.pro",
@@ -13,5 +14,6 @@
   "ads_reward_inter":"ca-app-pub-5074750635149619/8189708213",
   "ads_reward":"ca-app-pub-5074750635149619/8330939325",
   "ads_openapp":"ca-app-pub-5074750635149619/6661004124",
+  "isBaoTri":"",
   "enable_ads": true
 }]
