@@ -14,7 +14,7 @@
   "ads_inter":"ca-app-pub-5074750635149619/9249119308",
   "ads_reward_inter":"ca-app-pub-5074750635149619/4647529313",
   "ads_reward":"ca-app-pub-5074750635149619/9550116604",
-  "ads_openapp":"ca-app-pub-5074750635149619/9550116604",
+  "ads_openapp":"ca-app-pub-5074750635149619/9226682977",
   "isBaoTri1":"",
   "isBaoTri2":"",
   "enable_ads": true
