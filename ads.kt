@@ -10,11 +10,11 @@
   "enable_ads": true
 },{
   "package":"com.azzphucmasterdev.pro",
-  "ads_banner":"ca-app-pub-5074750635149619/9835592686",
-  "ads_inter":"ca-app-pub-5074750635149619/9644020999",
-  "ads_reward_inter":"ca-app-pub-5074750635149619/8189708213",
-  "ads_reward":"ca-app-pub-5074750635149619/8330939325",
-  "ads_openapp":"ca-app-pub-5074750635149619/6661004124",
+  "ads_banner":"ca-app-pub-5074750635149619/1562200978",
+  "ads_inter":"ca-app-pub-5074750635149619/9249119308",
+  "ads_reward_inter":"ca-app-pub-5074750635149619/4647529313",
+  "ads_reward":"ca-app-pub-5074750635149619/9550116604",
+  "ads_openapp":"ca-app-pub-5074750635149619/9550116604",
   "isBaoTri1":"",
   "isBaoTri2":"",
   "enable_ads": true
