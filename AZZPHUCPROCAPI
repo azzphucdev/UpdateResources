@@ -1,10 +1,10 @@
 [
   {
    "URL": "https://4g.tintuc247.top/",
-   "Type": "nflash",
+   "Type": "v2board",
    "NhomTelegram":"https://t.me/tungconychat",
    "NhomZalo":"https://zalo.me/g/uhqhfj689",
-   "Info":"HTPN.ME",
+   "Info":"HTPN.VN",
    "API1":"api/v1/passport/auth/login",
    "API2":"api/v1/user/getSubscribe"
   },{
