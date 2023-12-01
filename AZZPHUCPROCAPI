@@ -17,7 +17,7 @@
    "API2":"api/v1/user/getSubscribe"
   },{
    "URL": "https://zingfast.vn/",
-   "Type": "xflash",
+   "Type": "nflash",
    "NhomTelegram":"https://t.me/tungconychat",
    "NhomZalo":"https://zalo.me/g/uhqhfj689",
    "Info":"zingfast Private Networks",
