@@ -1,5 +1,13 @@
 [
-  {
+ {
+   "URL": "https://hack4g.vn/",
+   "Type": "v2board",
+   "NhomTelegram":"https://t.me/AZZPHUCVPN",
+   "NhomZalo":"https://zalo.me/g/vfvtky822",
+   "Info":"HACK4G.VN",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  }, {
    "URL": "https://4g.tintuc247.top/",
    "Type": "v2board",
    "NhomTelegram":"https://t.me/tungconychat",
